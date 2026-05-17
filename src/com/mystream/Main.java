@@ -1,6 +1,7 @@
 /**
  *  Java program to create a Stream with 5 random double elements.
  */
+
 package com.mystream;
 
 import java.util.Random;
